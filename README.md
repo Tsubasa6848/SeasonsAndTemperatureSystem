@@ -1,4 +1,5 @@
 # Seasons And Temperature System
+- 高性能的BDS季节和温度系统
 - 为BDS服务器添加真实的季节和温度系统
 
 # 购买插件
